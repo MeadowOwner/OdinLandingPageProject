@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.top-quarter{
+    background-color: #1F2837;
+    display: flex;
+    flex-direction: column;
+}
+
+.third-quarter{
+    background-color: #E5E7EB;
+}
