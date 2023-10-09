@@ -139,4 +139,18 @@ ul{
 
 .third-quarter{
     background-color: #E5E7EB;
+    padding: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: block;
+}
+
+.third-quarter p{
+    font-size: 36px;
+    font-style: "light italic";
+    color: #1F2937;
+}
+
+.third-quarter h6{
+    text-align: right;
 }
